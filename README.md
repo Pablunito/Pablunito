@@ -9,7 +9,9 @@
 - 🌱 Actualmente aprendiendo **Python** y **JavaScript**  
 - 🏗️ Ya tengo experiencia en **HTML5** y **CSS3**, y sigo mejorando mis habilidades  
 - 🎯 Objetivo: convertirme en desarrollador web y seguir creciendo  
-- 📚 Me gusta crear proyectos prácticos mientras aprendo  
+- 📚 Me gusta crear proyectos prácticos mientras aprendo
+
+---
 
 ## 🔧 Tecnologías que manejo
 
