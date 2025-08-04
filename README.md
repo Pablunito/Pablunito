@@ -11,8 +11,6 @@
 - 🎯 Objetivo: convertirme en desarrollador web y seguir creciendo  
 - 📚 Me gusta crear proyectos prácticos mientras aprendo  
 
----
-
 ## 🔧 Tecnologías que manejo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
