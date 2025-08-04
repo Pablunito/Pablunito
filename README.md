@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Pablunito
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="right">
+  <img alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
 
 ## 🚀 Sobre mí
 - 💻 Estudiante de programación y tecnología  
@@ -9,7 +11,7 @@
 - 🎯 Objetivo: convertirme en desarrollador web y seguir creciendo  
 - 📚 Me gusta crear proyectos prácticos mientras aprendo  
 
-<br>
+---
 
 ## 🔧 Tecnologías que manejo
 
