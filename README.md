@@ -36,7 +36,9 @@ Mi primera web creada con HTML y CSS.
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablunito&layout=compact&theme=tokyonight)
 
-![Gráfica de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=Pablunito&theme=tokyo-night)
+## 📅 Calendario de contribuciones
+
+![Calendario de contribuciones](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pablunito&theme=tokyonight&utcOffset=2)
 
 ---
 
