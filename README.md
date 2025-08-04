@@ -23,12 +23,10 @@
 
 ## 📌 Proyectos destacados
 
-### 🔹 [Mi Primera Página Web](https://github.com/Pablunito/mi-pagina-web)
+### 🔹 [Mi Primera Página Web](https://github.com/Pablunito/Mi-primera-pagina-web)
 Mi primera web creada con HTML y CSS.  
 - 🌐 Responsive y sencilla  
 - 🎨 Incluye estilos personalizados  
-
-> 💡 Puedes ir sustituyendo o ampliando esta sección con tus futuros proyectos.
 
 ---
 
@@ -43,10 +41,8 @@ Mi primera web creada con HTML y CSS.
 ---
 
 ## 📫 Cómo contactarme
-
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- 📬 Email: tuemail@ejemplo.com  
+  
+- 📬 Email: pablunitodelpirod@gmail.com 
 
 ---
 
