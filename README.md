@@ -33,7 +33,7 @@
 
 ## 📌 Proyectos destacados
 
-### 🔹 [Mi Primera Página Web](https://github.com/Pablunito/Mi-primera-pagina-web)
+### 🔹 [Mi Primera Página Web](https://github.com/Pablunito/Mi-primera-web)
 Mi primera web creada con HTML y CSS.  
 - 🌐 Responsive y sencilla  
 - 🎨 Incluye estilos personalizados  
