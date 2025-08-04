@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Pablunito
 
+## 🚀 Sobre mí
 <div align="right">
   <img alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
-## 🚀 Sobre mí
 - 💻 Estudiante de programación y tecnología  
 - 🌱 Actualmente aprendiendo **Python** y **JavaScript**  
 - 🏗️ Ya tengo experiencia en **HTML5** y **CSS3**, y sigo mejorando mis habilidades  
