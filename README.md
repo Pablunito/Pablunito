@@ -1,15 +1,23 @@
 # 👋 ¡Hola! Soy Pablunito
 
+<table>
+  <tr>
+    <td>
+
 ## 🚀 Sobre mí
-<div align="right">
-  <img alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</div>
 
 - 💻 Estudiante de programación y tecnología  
 - 🌱 Actualmente aprendiendo **Python** y **JavaScript**  
 - 🏗️ Ya tengo experiencia en **HTML5** y **CSS3**, y sigo mejorando mis habilidades  
 - 🎯 Objetivo: convertirme en desarrollador web y seguir creciendo  
-- 📚 Me gusta crear proyectos prácticos mientras aprendo
+- 📚 Me gusta crear proyectos prácticos mientras aprendo  
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="250">
+</td>
+  </tr>
+</table>
 
 ---
 
