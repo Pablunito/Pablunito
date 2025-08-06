@@ -54,7 +54,7 @@ Mi primera web creada con HTML y CSS.
 
 ## 📫 Cómo contactarme
   
-- 📬 Email: pablunitodelpirod@gmail.com 
+- 📬 Email: pablunito@gmail.com 
 
 ---
 
